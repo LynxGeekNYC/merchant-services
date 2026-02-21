@@ -1,4 +1,0 @@
-Options -Indexes
-<FilesMatch "\.(php|phar|pl|py|sh)$">
-  Deny from all
-</FilesMatch>
