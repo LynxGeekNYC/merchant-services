@@ -1,3 +1,11 @@
+Various Tools to sell merchant services
+
+I put a lot of work into these scripts so please donate if you can. Even $1 helps!
+
+CashApp / Venmo: LynxGeekNYC
+
+BitCoin: bc1q8sthd96c7chhq5kr3u80xrxs26jna9d8c0mjh7
+
 # Merchant Services Rate Comparison Calculator (PHP + Bootstrap)
 
 A lightweight, statement-friendly rate comparison web app built with **PHP**, **HTML5**, and **Bootstrap 5**. Merchants can enter basic processing activity and compare estimated monthly cost and effective rate across multiple pricing models, including a dedicated **Clover comparison mode** that supports a full fee catalog and configurable assumptions. ([Merchant Services][1])
